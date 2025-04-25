@@ -1,0 +1,1 @@
+This is a project where I finetuned a Mistral-7B model for the kaggle LLM Prompt Recovery competition, where participants had to submit code that recovers a prompt that was used to rewrite a tex, based on the original and rewritten text, with the objective of minimizing a BERT sentence similarity goal.
